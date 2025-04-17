@@ -1,4 +1,4 @@
-# Chiplet Architecture Simulator
+# Chiplet Behavior Simulator
 
 This repository provides a user-friendly behavioral simulator for evaluating chiplet-based architectures. The simulator estimates performance (e.g., inference time, Linux task latency), power consumption, and overheads (e.g., die-to-die communication, coherence) for various configurations of CPU and NPU dies. It is designed for coarse-grained analysis, ideal for early-stage design space exploration.
 
@@ -25,8 +25,8 @@ This repository provides a user-friendly behavioral simulator for evaluating chi
 1. **Clone the Repository** (if applicable):
 
    ```bash
-   git clone <repository-url>
-   cd chiplet-simulator
+   git clone https://github.com/sun123-cmd/chiplet-bhsim
+   cd chiplet-bhsim
    ```
 
 2. **Install Python Dependencies**:
