@@ -198,10 +198,3 @@ Use a JSON configuration file to define multiple configurations and run them in 
   ```
 - **Add Parameters**: Extend `ChipletConfig` and `argparse` to include new parameters (e.g., CPU/NPU frequency, cache size).
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details (if provided).
-
-## Contact
-
-For issues or feature requests, please open an issue on the repository or contact the maintainer.``
