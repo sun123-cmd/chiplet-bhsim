@@ -1,0 +1,26 @@
+[
+    {
+        "cpu_dies": 1,
+        "cpu_cores_per_die": 4,
+        "npu_dies": 1,
+        "npu_cores_per_die": 8,
+        "interconnect_bw": 100,
+        "memory_bw": 200
+    },
+    {
+        "cpu_dies": 1,
+        "cpu_cores_per_die": 6,
+        "npu_dies": 1,
+        "npu_cores_per_die": 16,
+        "interconnect_bw": 200,
+        "memory_bw": 400
+    },
+    {
+        "cpu_dies": 1,
+        "cpu_cores_per_die": 8,
+        "npu_dies": 2,
+        "npu_cores_per_die": 16,
+        "interconnect_bw": 400,
+        "memory_bw": 400
+    }
+]
